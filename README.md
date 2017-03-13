@@ -19,8 +19,8 @@ a lightweight scroller for PC and mobile
 
 ## 快速入门
 
-1. 引入脚本<script type="text/javascript" src="../scroller.js"></script>
-2. 创建容器<div class="wrapper"></div>
+1. 引入脚本\<script type="text/javascript" src="../scroller.js"\>\</script\>
+2. 创建容器\<div class="wrapper"\>\</div\>
 3. 将容器设为滚动Scroller(document.getElementById('wrapper'));
 
     对就是这么简单，需要注意的是容器大小和位置需要自己设定好，其他的scroller会自己配置。
